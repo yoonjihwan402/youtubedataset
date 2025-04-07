@@ -21,4 +21,6 @@
 ## 6. 데이터셋 설명
 - https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 - KR_youtube_trending_data.scv
-- 
+
+## 7. 참고 논문
+- https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09329464
