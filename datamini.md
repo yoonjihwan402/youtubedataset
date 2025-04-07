@@ -19,8 +19,10 @@
 - 유튜브 트렌드 변화를 분석하여 완성된 프로젝트를 이용해서 인스타그램,X 등 다른 SNS 분석
 
 ## 6. 데이터셋 설명
-- https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
-- KR_youtube_trending_data.scv
+- https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset (KR_youtube_trending_data.scv)
+- 10 of 16 columns
+- size 322.07mb
+- 30218 행
 
 ## 7. 참고 논문
 - https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09329464
